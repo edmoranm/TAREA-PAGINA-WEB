@@ -1,0 +1,50 @@
+body{
+    opacity: 0.9;
+}
+h1{ 
+    color: black ;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    background-color: gray;
+    border: solid;
+    border-color: green;
+    border-radius: 5%;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium'
+}
+
+p{
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium';
+    
+}
+
+#div1{
+    width: 45%;
+    margin-left: 1%;
+    border: solid;
+    border-color: green;
+    image-resolution: 90%;
+    background-color: rgb(235, 235, 71);
+    border-width: 3mm ;
+
+}
+
+#div2{
+     width: 45%;
+     height: 15cm;
+    margin-left: 50%;
+    margin-top: -50%;
+    border: solid;
+    border-color: green;
+    image-resolution: 90%;
+    background-color: rgb(235, 235, 71);
+    border-width: 3mm ;
+}
+
+#table, th, td{
+    border: solid;
+    border-color: blue;
+}
